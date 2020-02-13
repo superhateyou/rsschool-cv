@@ -1,2 +1,2 @@
-# https://superhateyou.github.io/rsschool-cv/cv
+# https://superhateyou.github.io/rsschool-cv/
 
